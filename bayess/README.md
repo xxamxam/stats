@@ -1,0 +1,1 @@
+сolab 1 дз `bayess_1.ipynb`[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xxamxam/stats/blob/main/bayess/hw1/bayess_1.ipynb) 
